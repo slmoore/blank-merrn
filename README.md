@@ -4,11 +4,11 @@ This is a blank "Hello World" style application that installs all the necessary 
 
 ##Get Started
 
-Clone the files to a new directory and then follow the steps below.
+Clone the files:
+`git clone https://github.com/slmoore/blank-merrn.git`
 
 ###Terminal commands
-1. npm install
-2. npm run dev
+1. `npm install`
+2. `npm run dev`
 
-Then open browser to http://localhost:8080/
-
+Then open browser to [http://localhost:8080/](http://localhost:8080/)
