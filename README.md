@@ -1,6 +1,6 @@
 #Blank MERRN Application
 
-This is a blank "Hello World" style application that installs all the necessary dependencies without any functionality beyond rendering one React component.
+This is a blank "Hello World" style application that installs all the necessary dependencies without any functionality beyond rendering one React component.  It has Hot Reloading functionality included.
 
 ##Get Started
 
