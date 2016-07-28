@@ -18,6 +18,7 @@ module.exports = {
       }
     ]
   },
+  devtool: 'source-map',
   devServer: {
     stats: { colors: true },
     contentBase: './dist'
