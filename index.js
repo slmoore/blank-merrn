@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-//hot module replacement requires final app component to be a stateful component:
+//hot module replacement requires root component to extend React.Component:
 //https://github.com/gaearon/react-hot-loader/blob/master/docs/Troubleshooting.md
 class App extends React.Component {
   render() {
