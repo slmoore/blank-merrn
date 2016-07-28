@@ -10,6 +10,5 @@ Clone the files to a new directory and then follow the steps below.
 1. npm install
 2. npm run dev
 
-###After terminal commands
-3. open browser to http://localhost:8080/
+Then open browser to http://localhost:8080/
 
